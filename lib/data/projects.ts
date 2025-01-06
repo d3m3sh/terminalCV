@@ -11,4 +11,24 @@ export const projects = [
     ],
     source_code_link: "#",
   },
+  {
+    name: "Web Agency Landing Page",
+    description: "Web agency landing page featuring Stripe-integrated pricing and a contact form.",
+    tags: [
+      { name: "Vite", color: "blue-text-gradient" },
+      { name: "React", color: "green-text-gradient" },
+      { name: "Typescript", color: "pink-text-gradient" },
+    ],
+    source_code_link: "https://agency.demesh.link",
+  },
+  {
+    name: "Google Maps Prospects Search Application",
+    description: "An application for prospecting and lead generation using Google Maps, allowing users to search, filter, and extract business information efficiently",
+    tags: [
+      { name: "NextJS", color: "blue-text-gradient" },
+      { name: "React", color: "green-text-gradient" },
+      { name: "Google API", color: "pink-text-gradient" },
+    ],
+    source_code_link: "https://search-prospects.demesh.link",
+  },
 ];
