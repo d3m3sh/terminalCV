@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Github } from 'lucide-react';
+import { Link } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 interface ProjectProps {
@@ -26,7 +26,7 @@ export function ProjectOutput({ content }: { content: ProjectProps }) {
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white transition-colors"
         >
-          <Github size={20} />
+          <Link size={20} />
         </a>
       </div>
       
