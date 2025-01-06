@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 
 interface TerminalProps {
   onCommand: (command: string) => void;
-  output: string[];
+  output: React.JSX.Element[];
 }
 
 export default function Terminal({ onCommand, output }: TerminalProps) {
