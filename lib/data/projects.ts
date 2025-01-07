@@ -31,4 +31,14 @@ export const projects = [
     ],
     source_code_link: "https://search-prospects.demesh.link",
   },
+  {
+    name: "NFT Project Landing Page Example",
+    description: "A sleek and responsive landing page template designed for showcasing an NFT collection, featuring sections for artwork display, roadmap, team introduction",
+    tags: [
+      { name: "Vite", color: "blue-text-gradient" },
+      { name: "React", color: "green-text-gradient" },
+      { name: "Typescript", color: "pink-text-gradient" },
+    ],
+    source_code_link: "https://showcase.nft.demesh.link",
+  },
 ];
