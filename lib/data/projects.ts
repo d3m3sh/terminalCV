@@ -9,7 +9,7 @@ export const projects = [
       { name: "WebRTC", color: "green-text-gradient" },
       { name: "C", color: "pink-text-gradient" },
     ],
-    source_code_link: "https://github.com/d3m3sh/mesh-sfu",
+    source_code_link: "https://github.com/d3m3sh/lsfu",
   },
   {
     name: "Web Agency Landing Page",
