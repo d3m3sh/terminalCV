@@ -41,4 +41,14 @@ export const projects = [
     ],
     source_code_link: "https://showcase.nft.demesh.link",
   },
+  {
+    name: "Project Landing Page Example",
+    description: "A landing page example",
+    tags: [
+      { name: "Vite", color: "blue-text-gradient" },
+      { name: "React", color: "green-text-gradient" },
+      { name: "Typescript", color: "pink-text-gradient" },
+    ],
+    source_code_link: "https://showcase.demesh.link",
+  },
 ];
